@@ -94,7 +94,7 @@ class MenuManager:
         
         console.print(Panel(
             "\n".join(f"  {option}" for option in menu_options),
-            title="[bold green]Telegram Admin Connect[/bold green]",
+            title="[bold green]TeleAdminConnect[/bold green]",
             border_style="blue"
         ))
 
